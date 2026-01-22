@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AdGenius AI",
+  "description": "A powerful AI-driven SaaS for generating high-converting ad creatives across multiple social media platforms.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
